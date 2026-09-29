@@ -30,9 +30,9 @@ class EmailNotification {
     private $smtp_config = [
         'host' => 'smtp.gmail.com',              // Already set (don't change)
         'port' => 587,                           // Already set (don't change)
-        'username' => 'lawfirmemailling@gmail.com',    // REPLACE: Your Gmail address
-        'password' => 'dbol uhpr bnyv drjy',     // ⬅️ REPLACE: Your 16-char app password
-        'from_email' => 'lawfirmemailling@gmail.com',  // ⬅️ REPLACE: Same as username
+        'username' => ' ',    // REPLACE: Your Gmail address
+        'password' => ' ',     // ⬅️ REPLACE: Your 16-char app password
+        'from_email' => ' ',  // ⬅️ REPLACE: Same as username
         'from_name' => 'MD Law Firm'             // ⬅️ OPTIONAL: Change sender name
     ];
     // ============================================
